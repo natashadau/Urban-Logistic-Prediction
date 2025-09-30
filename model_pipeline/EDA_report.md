@@ -179,7 +179,8 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+<img width="699" height="472" alt="output_7_0" src="https://github.com/user-attachments/assets/b30a74da-1654-4065-9ab0-817c52e73d9b" />
+
     
 
 
@@ -204,7 +205,8 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+<img width="695" height="471" alt="output_10_0" src="https://github.com/user-attachments/assets/9e3709e6-f958-4f79-92be-2c537c5706ad" />
+
     
 
 
@@ -231,7 +233,8 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+<img width="695" height="472" alt="output_13_0" src="https://github.com/user-attachments/assets/fdabeca5-7caa-4ab7-b3e8-f47a8be98e04" />
+
     
 
 
@@ -256,8 +259,8 @@ plt.show()
 ```
 
 
-    
-![png](output_16_0.png)
+<img width="773" height="471" alt="output_16_0" src="https://github.com/user-attachments/assets/1ff3500e-7ec0-49ee-90aa-37636838fd46" />
+
     
 
 
@@ -283,7 +286,8 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+<img width="695" height="472" alt="output_19_0" src="https://github.com/user-attachments/assets/f211587d-5c89-4f1c-a493-c8a3ea729b01" />
+
     
 
 
@@ -307,7 +311,8 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+<img width="702" height="597" alt="output_22_0" src="https://github.com/user-attachments/assets/5d123e9e-8fc8-457b-a758-8492e1e1f510" />
+
     
 
 
@@ -339,7 +344,8 @@ plt.show()
 
 
     
-![png](output_25_1.png)
+<img width="700" height="470" alt="output_25_1" src="https://github.com/user-attachments/assets/87e6b6c1-57f9-4292-bed2-5747b5b8c17e" />
+
     
 
 
@@ -369,8 +375,8 @@ plt.show()
 
 
     
-![png](output_28_0.png)
-    
+<img width="700" height="470" alt="output_28_0" src="https://github.com/user-attachments/assets/fe5aca5c-01e0-4711-b95a-f08b777e8e74" />
+
 
 
 **Key insights:**
@@ -393,7 +399,8 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+<img width="855" height="547" alt="output_31_0" src="https://github.com/user-attachments/assets/0301e319-5137-46df-9e89-1c62f8953402" />
+
     
 
 
