@@ -7,7 +7,7 @@ FROM deliveries d
 WHERE d.order_placed_at >= NOW() - INTERVAL '30 days'
 GROUP BY d.customer_area
 ORDER BY "Average Delivery Time Min" DESC
-LIMIT 5;
+LIMIT 5
 
 
 -- 2. Average delivery time per traffic condition, by restaurant area and cuisine type.
@@ -21,7 +21,7 @@ FROM deliveries d
 JOIN orders o      ON o.delivery_id   = d.delivery_id
 JOIN restaurants r ON r.restaurant_id = o.restaurant_id
 GROUP BY r.area, r.cuisine_type, d.traffic_condition
-ORDER BY "Average Delivery Time Min" DESC;
+ORDER BY "Average Delivery Time Min" DESC
 
 
 -- 3. Top 10 delivery people with the fastest average delivery time, considering only those with at least 50 deliveries and who are still active.
@@ -38,7 +38,7 @@ WHERE dp.is_active = TRUE
 GROUP BY dp.delivery_person_id, dp.name
 HAVING COUNT(*) >= 50
 ORDER BY average_delivery_time ASC
-LIMIT 10;
+LIMIT 10
 
 
 -- 4. The most profitable restaurant area in the last 3 months, defined as the area with the highest total order value.
@@ -52,7 +52,7 @@ JOIN restaurants r ON r.restaurant_id = o.restaurant_id
 WHERE d.order_placed_at >= NOW() - INTERVAL '3 months'
 GROUP BY r.area
 ORDER BY "Revenue Total" DESC
-LIMIT 1;
+LIMIT 1
 
 
 -- 5. Identify whether any delivery people show an increasing trend in average delivery time.
@@ -92,5 +92,5 @@ JOIN delivery_persons dp
 WHERE t.current_avg  IS NOT NULL
   AND t.previous_avg IS NOT NULL
   AND t.current_avg > t.previous_avg
-ORDER BY delta_min DESC;
+ORDER BY delta_min DESC
 
