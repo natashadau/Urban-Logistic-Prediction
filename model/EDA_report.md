@@ -178,8 +178,8 @@ plt.show()
 ```
 
 
-    
-![png](output_7_0.png)
+<img width="699" height="472" alt="output_7_0" src="https://github.com/user-attachments/assets/5fb5da59-05c0-44f5-b4de-5e28ce41acec" />
+
     
 
 
@@ -204,8 +204,7 @@ plt.show()
 
 
     
-![png](output_10_0.png)
-    
+<img width="695" height="471" alt="output_10_0" src="https://github.com/user-attachments/assets/20049115-a6b5-46a0-ada7-82c72df34869" />
 
 
 **Key insights:**
@@ -231,8 +230,8 @@ plt.show()
 
 
     
-![png](output_13_0.png)
     
+<img width="695" height="472" alt="output_13_0" src="https://github.com/user-attachments/assets/68a9dcc8-222b-4415-8719-1656e2d5ad11" />
 
 
 **Key insights:**
@@ -257,8 +256,8 @@ plt.show()
 
 
     
-![png](output_16_0.png)
-    
+<img width="773" height="471" alt="output_16_0" src="https://github.com/user-attachments/assets/2f2a39cb-8306-48b6-85e6-993739b6ee61" />
+
 
 
 **Key insights:**
@@ -282,9 +281,8 @@ plt.show()
 ```
 
 
-    
-![png](output_19_0.png)
-    
+<img width="695" height="472" alt="output_19_0" src="https://github.com/user-attachments/assets/55e4571b-322b-461b-9bfe-6bb2f186a1fb" />
+
 
 
 **Key insights:**
@@ -306,8 +304,8 @@ plt.show()
 ```
 
 
-    
-![png](output_22_0.png)
+<img width="702" height="597" alt="output_22_0" src="https://github.com/user-attachments/assets/bc62c75c-131c-455f-aa8d-ad1edd6d33ba" />
+
     
 
 
@@ -339,7 +337,8 @@ plt.show()
 
 
     
-![png](output_25_1.png)
+<img width="700" height="470" alt="output_25_1" src="https://github.com/user-attachments/assets/5cb9e879-6ab3-4d48-ac8f-58d4fb13b9fa" />
+
     
 
 
@@ -369,9 +368,9 @@ plt.show()
 
 
     
-![png](output_28_0.png)
-    
+<img width="700" height="470" alt="output_28_0" src="https://github.com/user-attachments/assets/69fe93a7-c71a-40a1-94ce-4761bc6a190d" />
 
+    
 
 **Key insights:**
 
@@ -393,8 +392,8 @@ plt.show()
 
 
     
-![png](output_31_0.png)
-    
+<img width="855" height="547" alt="output_31_0" src="https://github.com/user-attachments/assets/f30ebef0-28d6-4cbe-a368-6dfe078753df" />
+
 
 
 **Key insights:**
